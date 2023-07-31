@@ -1,0 +1,354 @@
+[
+  {
+    "VulnerabilityID": "CVE-2011-3374",
+    "Severity": "LOW"
+  },
+  {
+    "VulnerabilityID": "CVE-2022-0563",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2016-2781",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2017-18018",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2022-27943",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2011-3374",
+    "Severity": "LOW"
+  },
+  {
+    "VulnerabilityID": "CVE-2022-0563",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2019-1010022",
+    "Severity": "CRITICAL"
+  },
+  {
+    "VulnerabilityID": "CVE-2018-20796",
+    "Severity": "HIGH"
+  },
+  {
+    "VulnerabilityID": "CVE-2019-1010023",
+    "Severity": "HIGH"
+  },
+  {
+    "VulnerabilityID": "CVE-2019-9192",
+    "Severity": "HIGH"
+  },
+  {
+    "VulnerabilityID": "CVE-2010-4756",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2019-1010024",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2019-1010025",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2019-1010022",
+    "Severity": "CRITICAL"
+  },
+  {
+    "VulnerabilityID": "CVE-2018-20796",
+    "Severity": "HIGH"
+  },
+  {
+    "VulnerabilityID": "CVE-2019-1010023",
+    "Severity": "HIGH"
+  },
+  {
+    "VulnerabilityID": "CVE-2019-9192",
+    "Severity": "HIGH"
+  },
+  {
+    "VulnerabilityID": "CVE-2010-4756",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2019-1010024",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2019-1010025",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2022-27943",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2018-6829",
+    "Severity": "HIGH"
+  },
+  {
+    "VulnerabilityID": "CVE-2011-3389",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2018-5709",
+    "Severity": "HIGH"
+  },
+  {
+    "VulnerabilityID": "CVE-2004-0971",
+    "Severity": "LOW"
+  },
+  {
+    "VulnerabilityID": "CVE-2017-9937",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2018-5709",
+    "Severity": "HIGH"
+  },
+  {
+    "VulnerabilityID": "CVE-2004-0971",
+    "Severity": "LOW"
+  },
+  {
+    "VulnerabilityID": "CVE-2018-5709",
+    "Severity": "HIGH"
+  },
+  {
+    "VulnerabilityID": "CVE-2004-0971",
+    "Severity": "LOW"
+  },
+  {
+    "VulnerabilityID": "CVE-2018-5709",
+    "Severity": "HIGH"
+  },
+  {
+    "VulnerabilityID": "CVE-2004-0971",
+    "Severity": "LOW"
+  },
+  {
+    "VulnerabilityID": "CVE-2017-17740",
+    "Severity": "HIGH"
+  },
+  {
+    "VulnerabilityID": "CVE-2015-3276",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2017-14159",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2020-15719",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2022-0563",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2021-4214",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2022-0563",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2023-0286",
+    "Severity": "HIGH"
+  },
+  {
+    "VulnerabilityID": "CVE-2007-6755",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2010-0928",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2022-4304",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2022-4450",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2023-0215",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2022-4203",
+    "Severity": "UNKNOWN"
+  },
+  {
+    "VulnerabilityID": "CVE-2023-0216",
+    "Severity": "UNKNOWN"
+  },
+  {
+    "VulnerabilityID": "CVE-2023-0217",
+    "Severity": "UNKNOWN"
+  },
+  {
+    "VulnerabilityID": "CVE-2023-0401",
+    "Severity": "UNKNOWN"
+  },
+  {
+    "VulnerabilityID": "CVE-2022-27943",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2013-4392",
+    "Severity": "LOW"
+  },
+  {
+    "VulnerabilityID": "CVE-2017-9117",
+    "Severity": "CRITICAL"
+  },
+  {
+    "VulnerabilityID": "CVE-2017-16232",
+    "Severity": "HIGH"
+  },
+  {
+    "VulnerabilityID": "CVE-2017-17973",
+    "Severity": "HIGH"
+  },
+  {
+    "VulnerabilityID": "CVE-2017-5563",
+    "Severity": "HIGH"
+  },
+  {
+    "VulnerabilityID": "CVE-2014-8130",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2018-10126",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2022-1056",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2022-1210",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2013-4392",
+    "Severity": "LOW"
+  },
+  {
+    "VulnerabilityID": "CVE-2022-0563",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2016-9085",
+    "Severity": "LOW"
+  },
+  {
+    "VulnerabilityID": "CVE-2015-9019",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2019-19882",
+    "Severity": "HIGH"
+  },
+  {
+    "VulnerabilityID": "CVE-2007-5686",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2023-0634",
+    "Severity": "UNKNOWN"
+  },
+  {
+    "VulnerabilityID": "CVE-2022-0563",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2013-0337",
+    "Severity": "HIGH"
+  },
+  {
+    "VulnerabilityID": "CVE-2009-4487",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2023-0286",
+    "Severity": "HIGH"
+  },
+  {
+    "VulnerabilityID": "CVE-2007-6755",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2010-0928",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2022-4304",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2022-4450",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2023-0215",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2022-4203",
+    "Severity": "UNKNOWN"
+  },
+  {
+    "VulnerabilityID": "CVE-2023-0216",
+    "Severity": "UNKNOWN"
+  },
+  {
+    "VulnerabilityID": "CVE-2023-0217",
+    "Severity": "UNKNOWN"
+  },
+  {
+    "VulnerabilityID": "CVE-2023-0401",
+    "Severity": "UNKNOWN"
+  },
+  {
+    "VulnerabilityID": "CVE-2019-19882",
+    "Severity": "HIGH"
+  },
+  {
+    "VulnerabilityID": "CVE-2007-5686",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2023-0634",
+    "Severity": "UNKNOWN"
+  },
+  {
+    "VulnerabilityID": "CVE-2011-4116",
+    "Severity": "HIGH"
+  },
+  {
+    "VulnerabilityID": "CVE-2005-2541",
+    "Severity": "HIGH"
+  },
+  {
+    "VulnerabilityID": "CVE-2022-48303",
+    "Severity": "HIGH"
+  },
+  {
+    "VulnerabilityID": "CVE-2022-0563",
+    "Severity": "MEDIUM"
+  },
+  {
+    "VulnerabilityID": "CVE-2022-0563",
+    "Severity": "MEDIUM"
+  }
+]

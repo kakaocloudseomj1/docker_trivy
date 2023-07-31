@@ -1,0 +1,19 @@
+version: "3"
+
+services:
+  trivy_scanner:
+    image: aquasec/trivy:0.18.3
+    volumes:
+      - /tmp:/tmp
+      - trivy-cache:/root/.cache/
+      - /var/run/docker.sock:/var/run/docker.sock
+    command: image --format json -o /tmp/result.json nginx:1.19.6
+    deploy:  # Deployment configurations
+      placement:
+        constraints:
+          - node.role == worker  # Deploy only on worker nodes
+      restart_policy:
+        condition: none
+
+volumes:
+  trivy-cache:  # Named volume for trivy cache data
